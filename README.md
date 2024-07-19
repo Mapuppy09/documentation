@@ -1,6 +1,8 @@
 # npm Documentation
 
+
 [![Publish](https://github.com/npm/documentation/actions/workflows/publish.yml/badge.svg)](https://github.com/npm/documentation/actions/workflows/publish.yml)
+
 
 This is the documentation for
 [https://docs.npmjs.com/](https://docs.npmjs.com/).
